@@ -28,7 +28,7 @@ h1 {
   
   color: rgb(255, 248, 248);
   border: 1px solid white;
-  border-radius: 8px;
+  /* border-radius: 8px; */
   font-size: 18px;
   background-color: rgba(0, 0, 0, 0.883);
   padding: 10px 30px;
